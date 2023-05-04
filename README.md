@@ -16,6 +16,9 @@ openai package: pip install openai
 google-cloud-texttospeech package: pip install google-cloud-texttospeech
 PyQt5 package: pip install PyQt5
 pygame package: pip install pygame
+Or pip install openai SpeechRecognition pyttsx3 PyQt5 google-cloud-texttospeech pygame requests
+To run them all at once.
+
 Setup
 Before running the application, you need to obtain API keys for OpenAI and Google Cloud Text-to-Speech, and set up the appropriate environment variables:
 
